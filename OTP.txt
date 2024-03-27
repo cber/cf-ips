@@ -1,0 +1,7 @@
+185.225.19.26:80#OTP | Bucharest
+31.25.10.113:2087#OTP | Bucharest
+31.25.10.113:2096#OTP | Bucharest
+31.25.10.113:8443#OTP | Bucharest
+45.136.199.213:8443#OTP | Bucharest
+45.82.136.11:80#OTP | Bucharest
+94.101.176.109:80#OTP | Bucharest

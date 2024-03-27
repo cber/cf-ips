@@ -1,0 +1,5 @@
+181.36.229.212:2053#SDQ | Santo Domingo
+181.36.229.212:2083#SDQ | Santo Domingo
+181.36.229.212:2087#SDQ | Santo Domingo
+181.36.229.212:2096#SDQ | Santo Domingo
+181.36.229.212:8443#SDQ | Santo Domingo
