@@ -1,0 +1,14 @@
+18.201.31.16:80#DUB | Dublin
+18.201.59.230:80#DUB | Dublin
+18.201.80.76:80#DUB | Dublin
+3.249.251.170:80#DUB | Dublin
+3.252.216.57:80#DUB | Dublin
+3.253.9.64:80#DUB | Dublin
+3.255.117.108:80#DUB | Dublin
+3.255.15.209:2053#DUB | Dublin
+34.242.127.91:80#DUB | Dublin
+52.209.63.176:80#DUB | Dublin
+52.209.63.185:80#DUB | Dublin
+52.212.49.92:80#DUB | Dublin
+54.220.89.47:80#DUB | Dublin
+99.80.88.225:80#DUB | Dublin

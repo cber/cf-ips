@@ -1,0 +1,6 @@
+34.73.111.106:80#ATL | Atlanta
+34.74.105.17:80#ATL | Atlanta
+35.196.227.34:80#ATL | Atlanta
+35.231.5.47:80#ATL | Atlanta
+35.237.127.69:80#ATL | Atlanta
+35.243.254.173:80#ATL | Atlanta
