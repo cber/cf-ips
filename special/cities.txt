@@ -1,0 +1,169 @@
+hkg1.cf-ip.rr.nu:443#亚洲 | 香港 | Hong Kong
+hkg2.cf-ip.rr.nu:443#亚洲 | 香港 | Hong Kong
+hkg3.cf-ip.rr.nu:443#亚洲 | 香港 | Hong Kong
+sin1.cf-ip.rr.nu:443#亚洲 | 新加坡 | Singapore
+sin2.cf-ip.rr.nu:443#亚洲 | 新加坡 | Singapore
+sin3.cf-ip.rr.nu:443#亚洲 | 新加坡 | Singapore
+nrt1.cf-ip.rr.nu:443#亚洲 | 日本 | Tokyo
+nrt2.cf-ip.rr.nu:443#亚洲 | 日本 | Tokyo
+nrt3.cf-ip.rr.nu:443#亚洲 | 日本 | Tokyo
+kix1.cf-ip.rr.nu:443#亚洲 | 日本 | Osaka
+kix2.cf-ip.rr.nu:443#亚洲 | 日本 | Osaka
+kix3.cf-ip.rr.nu:443#亚洲 | 日本 | Osaka
+icn1.cf-ip.rr.nu:443#亚洲 | 韩国 | Seoul
+icn2.cf-ip.rr.nu:443#亚洲 | 韩国 | Seoul
+icn3.cf-ip.rr.nu:443#亚洲 | 韩国 | Seoul
+tpe1.cf-ip.rr.nu:443#亚洲 | 台湾 | Taipei
+tpe2.cf-ip.rr.nu:443#亚洲 | 台湾 | Taipei
+tpe3.cf-ip.rr.nu:443#亚洲 | 台湾 | Taipei
+mfm1.cf-ip.rr.nu:443#亚洲 | 澳门 | Macau
+bkk1.cf-ip.rr.nu:443#亚洲 | 泰国 | Bangkok
+tlv1.cf-ip.rr.nu:443#亚洲 | 以色列 | Tel Aviv
+tlv2.cf-ip.rr.nu:443#亚洲 | 以色列 | Tel Aviv
+dxb1.cf-ip.rr.nu:443#亚洲 | 阿联酋 | Dubai
+lax1.cf-ip.rr.nu:443#北美 | 美国 | CA | Los Angeles
+lax2.cf-ip.rr.nu:443#北美 | 美国 | CA | Los Angeles
+lax3.cf-ip.rr.nu:443#北美 | 美国 | CA | Los Angeles
+sjc1.cf-ip.rr.nu:443#北美 | 美国 | CA | San Jose
+sjc2.cf-ip.rr.nu:443#北美 | 美国 | CA | San Jose
+sjc3.cf-ip.rr.nu:443#北美 | 美国 | CA | San Jose
+iad1.cf-ip.rr.nu:443#北美 | 美国 | VA | Ashburn
+iad3.cf-ip.rr.nu:443#北美 | 美国 | VA | Ashburn
+iad2.cf-ip.rr.nu:443#北美 | 美国 | VA | Ashburn
+sea1.cf-ip.rr.nu:443#北美 | 美国 | WA | Seattle
+sea2.cf-ip.rr.nu:443#北美 | 美国 | WA | Seattle
+sea3.cf-ip.rr.nu:443#北美 | 美国 | WA | Seattle
+ord1.cf-ip.rr.nu:443#北美 | 美国 | IL | Chicago
+ord2.cf-ip.rr.nu:443#北美 | 美国 | IL | Chicago
+ord3.cf-ip.rr.nu:443#北美 | 美国 | IL | Chicago
+ewr1.cf-ip.rr.nu:443#北美 | 美国 | NJ | Newark
+ewr2.cf-ip.rr.nu:443#北美 | 美国 | NJ | Newark
+ewr3.cf-ip.rr.nu:443#北美 | 美国 | NJ | Newark
+yvr1.cf-ip.rr.nu:443#北美 | 加拿大 | BC | Vancouver
+yvr2.cf-ip.rr.nu:443#北美 | 加拿大 | BC | Vancouver
+yyz1.cf-ip.rr.nu:443#北美 | 加拿大 | ON | Toronto
+yyz2.cf-ip.rr.nu:443#北美 | 加拿大 | ON | Toronto
+yul1.cf-ip.rr.nu:443#北美 | 加拿大 | QC | Montreal
+yul2.cf-ip.rr.nu:443#北美 | 加拿大 | QC | Montreal
+ams1.cf-ip.rr.nu:443#欧洲 | 荷兰 | Amsterdam
+ams2.cf-ip.rr.nu:443#欧洲 | 荷兰 | Amsterdam
+fra1.cf-ip.rr.nu:443#欧洲 | 德国 | Frankfurt
+fra2.cf-ip.rr.nu:443#欧洲 | 德国 | Frankfurt
+cdg1.cf-ip.rr.nu:443#欧洲 | 法国 | Paris
+cdg2.cf-ip.rr.nu:443#欧洲 | 法国 | Paris
+lhr1.cf-ip.rr.nu:443#欧洲 | 英国 | London
+lhr2.cf-ip.rr.nu:443#欧洲 | 英国 | London
+zrh1.cf-ip.rr.nu:443#欧洲 | 瑞士 | Zurich
+zrh2.cf-ip.rr.nu:443#欧洲 | 瑞士 | Zurich
+arn1.cf-ip.rr.nu:443#欧洲 | 瑞典 | Stockholm
+arn2.cf-ip.rr.nu:443#欧洲 | 瑞典 | Stockholm
+waw1.cf-ip.rr.nu:443#欧洲 | 波兰 | Warsaw
+waw2.cf-ip.rr.nu:443#欧洲 | 波兰 | Warsaw
+mad1.cf-ip.rr.nu:443#欧洲 | 西班牙 | Madrid
+mad2.cf-ip.rr.nu:443#欧洲 | 西班牙 | Madrid
+mxp1.cf-ip.rr.nu:443#欧洲 | 意大利 | Milan
+mxp2.cf-ip.rr.nu:443#欧洲 | 意大利 | Milan
+dme1.cf-ip.rr.nu:443#欧洲 | 俄罗斯 | Moscow
+dme2.cf-ip.rr.nu:443#欧洲 | 俄罗斯 | Moscow
+ist1.cf-ip.rr.nu:443#欧洲 | 土耳其 | Istanbul
+ist2.cf-ip.rr.nu:443#欧洲 | 土耳其 | Istanbul
+mel1.cf-ip.rr.nu:443#大洋洲 | 澳大利亚 | Melbourne
+mel2.cf-ip.rr.nu:443#大洋洲 | 澳大利亚 | Melbourne
+syd1.cf-ip.rr.nu:443#大洋洲 | 澳大利亚 | Sydney
+syd2.cf-ip.rr.nu:443#大洋洲 | 澳大利亚 | Sydney
+akl1.cf-ip.rr.nu:443#大洋洲 | 新西兰 | Auckland
+gig1.cf-ip.rr.nu:443#南美 | 巴西 | Rio de Janeiro
+gig2.cf-ip.rr.nu:443#南美 | 巴西 | Rio de Janeiro
+gru1.cf-ip.rr.nu:443#南美 | 巴西 | São Paulo
+gru2.cf-ip.rr.nu:443#南美 | 巴西 | São Paulo
+udi1.cf-ip.rr.nu:443#南美 | 巴西 | Uberlandia
+scl1.cf-ip.rr.nu:443#南美 | 智利 | Santiago
+phx1.cf-ip.rr.nu:443#北美 | 美国 | AZ | Phoenix
+phx2.cf-ip.rr.nu:443#北美 | 美国 | AZ | Phoenix
+den1.cf-ip.rr.nu:443#北美 | 美国 | CO | Denver
+den2.cf-ip.rr.nu:443#北美 | 美国 | CO | Denver
+mia1.cf-ip.rr.nu:443#北美 | 美国 | FL | Miami
+mia2.cf-ip.rr.nu:443#北美 | 美国 | FL | Miami
+tpa1.cf-ip.rr.nu:443#北美 | 美国 | FL | Tampa
+tpa2.cf-ip.rr.nu:443#北美 | 美国 | FL | Tampa
+atl1.cf-ip.rr.nu:443#北美 | 美国 | GA | Atlanta
+atl2.cf-ip.rr.nu:443#北美 | 美国 | GA | Atlanta
+mci1.cf-ip.rr.nu:443#北美 | 美国 | KS | Kansas City
+pdx1.cf-ip.rr.nu:443#北美 | 美国 | OR | Portland
+pdx2.cf-ip.rr.nu:443#北美 | 美国 | OR | Portland
+bkk1.cf-ip.rr.nu:443#北美 | 美国 | TN | Nashville
+dfw1.cf-ip.rr.nu:443#北美 | 美国 | TX | Dallas
+dfw2.cf-ip.rr.nu:443#北美 | 美国 | TX | Dallas
+slc1.cf-ip.rr.nu:443#北美 | 美国 | UT | Salt Lake
+slc2.cf-ip.rr.nu:443#北美 | 美国 | UT | Salt Lake
+mex1.cf-ip.rr.nu:443#北美 | 墨西哥 | Mexico City
+sjo1.cf-ip.rr.nu:443#北美 | 墨西哥 | San José
+bom1.cf-ip.rr.nu:443#亚洲 | 印度 | Mumbai
+bom2.cf-ip.rr.nu:443#亚洲 | 印度 | Mumbai
+del1.cf-ip.rr.nu:443#亚洲 | 印度 | New Delhi
+maa1.cf-ip.rr.nu:443#亚洲 | 印度 | Chennai
+bkk1.cf-ip.rr.nu:443#亚洲 | 印尼 | Jakarta
+llk1.cf-ip.rr.nu:443#亚洲 | 伊朗 | Astara
+hfa1.cf-ip.rr.nu:443#亚洲 | 以色列 | Haifa
+kwi1.cf-ip.rr.nu:443#亚洲 | 科威特 | Kuwait City
+kul1.cf-ip.rr.nu:443#亚洲 | 马来西亚 | Kuala Lumpur
+kul2.cf-ip.rr.nu:443#亚洲 | 马来西亚 | Kuala Lumpur
+jhb1.cf-ip.rr.nu:443#亚洲 | 马来西亚 | Johor Bahru
+dac1.cf-ip.rr.nu:443#亚洲 | 孟加拉国 | Dhaka
+evn1.cf-ip.rr.nu:443#亚洲 | 亚美尼亚 | Yerevan
+gyd1.cf-ip.rr.nu:443#亚洲 | 阿塞拜疆 | Baku
+gyd2.cf-ip.rr.nu:443#亚洲 | 阿塞拜疆 | Baku
+ruh1.cf-ip.rr.nu:443#亚洲 | 沙特阿拉伯 | Riyadh
+ruh2.cf-ip.rr.nu:443#亚洲 | 沙特阿拉伯 | Riyadh
+ala1.cf-ip.rr.nu:443#亚洲 | 哈萨克斯坦 | Almaty
+txl1.cf-ip.rr.nu:443#欧洲 | 德国 | Berlin
+txl2.cf-ip.rr.nu:443#欧洲 | 德国 | Berlin
+dus1.cf-ip.rr.nu:443#欧洲 | 德国 | Düsseldorf
+dus2.cf-ip.rr.nu:443#欧洲 | 德国 | Düsseldorf
+ham1.cf-ip.rr.nu:443#欧洲 | 德国 | Hamburger
+ham2.cf-ip.rr.nu:443#欧洲 | 德国 | Hamburger
+muc1.cf-ip.rr.nu:443#欧洲 | 德国 | Munich
+muc2.cf-ip.rr.nu:443#欧洲 | 德国 | Munich
+mrs1.cf-ip.rr.nu:443#欧洲 | 法国 | Marseille
+mrs2.cf-ip.rr.nu:443#欧洲 | 法国 | Marseille
+gva1.cf-ip.rr.nu:443#欧洲 | 瑞士 | Geneva
+gva2.cf-ip.rr.nu:443#欧洲 | 瑞士 | Geneva
+cph1.cf-ip.rr.nu:443#欧洲 | 丹麦 | Copenhagen
+osl1.cf-ip.rr.nu:443#欧洲 | 挪威 | Oslo
+osl2.cf-ip.rr.nu:443#欧洲 | 挪威 | Oslo
+bcn1.cf-ip.rr.nu:443#欧洲 | 西班牙 | Barcelona
+fco1.cf-ip.rr.nu:443#欧洲 | 意大利 | Rome
+fco2.cf-ip.rr.nu:443#欧洲 | 意大利 | Rome
+got1.cf-ip.rr.nu:443#欧洲 | 瑞典 | Gothenburg
+hel1.cf-ip.rr.nu:443#欧洲 | 芬兰 | Helsinki
+hel2.cf-ip.rr.nu:443#欧洲 | 芬兰 | Helsinki
+prg1.cf-ip.rr.nu:443#欧洲 | 捷克 | Prague
+prg2.cf-ip.rr.nu:443#欧洲 | 捷克 | Prague
+kef1.cf-ip.rr.nu:443#欧洲 | 冰岛| Reykjavík
+led1.cf-ip.rr.nu:443#欧洲 | 俄罗斯 | Saint Petersburg
+kld1.cf-ip.rr.nu:443#欧洲 | 俄罗斯 | Tver
+dub1.cf-ip.rr.nu:443#欧洲 | 爱尔兰 | Dublin
+dub2.cf-ip.rr.nu:443#欧洲 | 爱尔兰 | Dublin
+kbp1.cf-ip.rr.nu:443#欧洲 | 乌克兰 | Kyiv
+kbp2.cf-ip.rr.nu:443#欧洲 | 乌克兰 | Kyiv
+vie1.cf-ip.rr.nu:443#欧洲 | 奥地利 | Vienna
+vie2.cf-ip.rr.nu:443#欧洲 | 奥地利 | Vienna
+vno1.cf-ip.rr.nu:443#欧洲 | 立陶宛 | Vilnius
+vno2.cf-ip.rr.nu:443#欧洲 | 立陶宛 | Vilnius
+bud1.cf-ip.rr.nu:443#欧洲 | 匈牙利 | Budapest
+sof1.cf-ip.rr.nu:443#欧洲 | 保加利亚 | Sofia
+sof2.cf-ip.rr.nu:443#欧洲 | 保加利亚 | Sofia
+otp1.cf-ip.rr.nu:443#欧洲 | 罗马尼亚 | Bucharest
+otp2.cf-ip.rr.nu:443#欧洲 | 罗马尼亚 | Bucharest
+lca1.cf-ip.rr.nu:443#欧洲 | 塞浦路斯 | Nicosia
+tll1.cf-ip.rr.nu:443#欧洲 | 爱沙尼亚 | Tallinn
+tll2.cf-ip.rr.nu:443#欧洲 | 爱沙尼亚 | Tallinn
+tbs1.cf-ip.rr.nu:443#欧洲 | 格鲁吉亚 | Tbilisi
+rix1.cf-ip.rr.nu:443#欧洲 | 拉脱维亚 | Riga
+rix2.cf-ip.rr.nu:443#欧洲 | 拉脱维亚 | Riga
+kiv1.cf-ip.rr.nu:443#欧洲 | 摩尔多瓦 | Chișinău
+cpt1.cf-ip.rr.nu:443#非洲 | 南非 | Cape Town
+jnb1.cf-ip.rr.nu:443#非洲 | 南非 | Johannesburg
+mba1.cf-ip.rr.nu:443#非洲 | 肯尼亚 | Mombasa
+mru1.cf-ip.rr.nu:443#非洲 | 毛里求斯 | Port Louis
+sdq1.cf-ip.rr.nu:443#北美 | 多米尼加 | Santo Domingo
