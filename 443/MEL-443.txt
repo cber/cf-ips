@@ -1,3 +1,0 @@
-185.215.246.56:443#MEL | Melbourne
-45.124.54.242:443#MEL | Melbourne
-58.96.86.5:443#MEL | Melbourne

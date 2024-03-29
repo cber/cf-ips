@@ -1,2 +1,0 @@
-189.1.128.29:443#GIG | Rio de Janeiro
-191.243.146.123:443#GIG | Rio de Janeiro

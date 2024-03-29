@@ -1,3 +1,0 @@
-103.137.63.2:443#KHH | Kaohsiung City
-103.137.63.3:443#KHH | Kaohsiung City
-111.247.40.233:443#KHH | Kaohsiung City

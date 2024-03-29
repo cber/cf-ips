@@ -1,2 +1,0 @@
-46.246.96.212:443#GOT | Gothenburg
-94.131.98.142:443#GOT | Gothenburg
