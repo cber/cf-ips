@@ -1,7 +1,0 @@
-15.185.149.165:8443#MRS | Marseille
-157.175.56.72:8443#MRS | Marseille
-16.24.24.145:80#MRS | Marseille
-16.24.66.17:8443#MRS | Marseille
-16.24.96.119:8443#MRS | Marseille
-172.213.16.24:8443#MRS | Marseille
-4.232.137.169:8443#MRS | Marseille

@@ -1,3 +1,0 @@
-164.52.2.100:443#JHB | Johor Bahru
-164.52.2.98:443#JHB | Johor Bahru
-164.52.2.99:443#JHB | Johor Bahru

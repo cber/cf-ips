@@ -1,5 +1,0 @@
-47.52.153.106:80#SLC | Salt Lake City
-47.56.108.50:80#SLC | Salt Lake City
-47.56.68.62:80#SLC | Salt Lake City
-47.89.17.122:80#SLC | Salt Lake City
-8.218.249.130:80#SLC | Salt Lake City

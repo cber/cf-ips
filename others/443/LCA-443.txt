@@ -1,5 +1,0 @@
-185.106.103.168:443#LCA | Nicosia
-85.239.40.227:443#LCA | Nicosia
-91.223.208.217:443#LCA | Nicosia
-94.78.67.171:443#LCA | Nicosia
-94.78.67.172:443#LCA | Nicosia
